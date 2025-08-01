@@ -1,0 +1,7 @@
+echo "# Fedlin-casseus" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/fedlincasseus88-create/Fedlin-casseus.git
+git push -u origin main
